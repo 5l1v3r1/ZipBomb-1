@@ -16,7 +16,7 @@ PNG's zip bomb example . Events :
 
 - Create 42.zip (read 42.zip rd mode && Write wb mode)
 
--open veri with zipfile , repeat
+- Open veri with zipfile , repeat
 
 
 <h2>PNGMerkez</h2>
