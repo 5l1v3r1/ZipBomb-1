@@ -13,10 +13,11 @@ PNG'nin zip bombası örneği . Olaylar :
 <h1>EN</h1>
 PNG's zip bomb example . Events :
 
+
 - Create 42.zip (read 42.zip rd mode && Write wb mode)
 
 -open veri with zipfile , repeat
 
-<a href="https://t.me/pngmerkez">PNGMERKEZ ON TELEGRAM</a>
+<a href="https://t.me/pngmerkez">PNGMERKEZ ON TELEGRAM</a><br>
 <a href="https://pngmerkez.org">PNGMERKEZ ON WEB</a>
 
