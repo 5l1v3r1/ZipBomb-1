@@ -16,8 +16,8 @@ PNG's zip bomb example . Events :
 
 - Create 42.zip (read 42.zip rd mode && Write wb mode)
 
--open veri with zipfile , repeat
-
-<a href="https://t.me/pngmerkez">PNGMERKEZ ON TELEGRAM</a><br>
-<a href="https://pngmerkez.org">PNGMERKEZ ON WEB</a>
+ -open veri with zipfile , repeat
+<h2>PNGMerkez</h2>
+<a href="https://t.me/pngmerkez"> TELEGRAM </a>
+<a href="https://pngmerkez.org">WEB</a>
 
